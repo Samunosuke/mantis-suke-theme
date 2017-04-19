@@ -20,3 +20,11 @@ Installation:
 7. Choose the theme and apply by clicking the "Change theme" button
 
 Tested with Mantis BT 2.3.0
+
+## ToDo
+- change pure java script implementation to use jQuery
+- improve the style
+
+## I know
+- it does not yet look nice / it is just a proof of concept
+- it kind of a hackish implementation
