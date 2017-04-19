@@ -27,4 +27,4 @@ Tested with Mantis BT 2.3.0
 
 ## I know
 - it does not yet look nice / it is just a proof of concept
-- it kind of a hackish implementation
+- it's a hackish implementation
