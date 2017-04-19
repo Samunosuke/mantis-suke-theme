@@ -7,8 +7,8 @@ This template requires the MantisThemeManager plugin: https://github.com/Samunos
 Thanks Tim Petruski!
 
 Installation:
-1. create the themes folder in the mantis/css directory if it does not yet exist
-2. create the "suke" folder in the themes directory
-3. copy all files into the foler .../mantis/css/themes/suke
+1. Copy the MantisThemeManager folder to /mantis/plugins (.../mantis/plugins/MantisThemeManager)
+2. Create the themes folder in the mantis/css directory if it does not yet exist
+3. Copy the suke folder with all content into the mantis themes folder (.../mantis/css/themes/suke)
 
 Tested with Mantis BT 2.3.0
