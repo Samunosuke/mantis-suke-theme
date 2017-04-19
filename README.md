@@ -6,6 +6,10 @@ without overriding or changing any file of the Mantis BT installation.
 This template requires the MantisThemeManager plugin: https://github.com/Samunosuke/MantisThemeManager
 Thanks Tim Petruski!
 
+<img src="https://github.com/Samunosuke/mantis-suke-theme/blob/master/suke/suke.png" height="200" alt="suke theme for MantisBT">
+
+[Download](https://github.com/Samunosuke/mantis-suke-theme/zipball/master)
+
 Installation:
 1. Copy the MantisThemeManager folder to /mantis/plugins (.../mantis/plugins/MantisThemeManager)
 2. Create the themes folder in the mantis/css directory if it does not yet exist
